@@ -134,7 +134,8 @@ span{
 }
 @media (min-width: 320px) and (max-width: 480px){
     #hero{
-        height: 80vh;
+        height: 50vh;
+        width: 100%;
     }
 
         #hero nav{
